@@ -87,3 +87,16 @@ Dimension Tables
 
 - Accessories generated the highest number of orders.
 - Revenue exceeded ₹24.9M
+## Dashboard Screenshots
+
+### Executive Dashboard
+[upload image]
+
+### Customer Analysis
+[upload image]
+
+### Product Analysis
+[upload image]
+
+### Geographical Analysis
+[upload image]
