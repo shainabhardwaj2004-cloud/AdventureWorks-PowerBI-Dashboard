@@ -101,10 +101,10 @@ Dimension Tables
 ![Executive Dashboard](Executive_Dashboard.png)
 
 ### Map Analysis
-![Map Dashboard](Map_Dashboard.png)
+![Map Dashboard](Map.png)
 
 ### Product Performance Dashboard
-![Product Dashboard](Product_Dashboard.png)
+![Product Dashboard](Product_Details.png)
 
 ### Customer Analysis Dashboard
-![Customer Dashboard](Customer_Dashboard.png)
+![Customer Dashboard](Customer_Details.png)
