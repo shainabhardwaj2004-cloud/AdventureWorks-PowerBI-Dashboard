@@ -98,13 +98,13 @@ Dimension Tables
 ## Dashboard Screenshots
 
 ### Executive Dashboard
-![Executive Dashboard](Screenshots/Executive_Dashboard.png)
+![Executive Dashboard](Executive_Dashboard.png)
 
 ### Map Analysis
-![Map Dashboard](Screenshots/Map_Dashboard.png)
+![Map Dashboard](Map_Dashboard.png)
 
 ### Product Performance Dashboard
-![Product Dashboard](Screenshots/Product_Dashboard.png)
+![Product Dashboard](Product_Dashboard.png)
 
 ### Customer Analysis Dashboard
-![Customer Dashboard](Screenshots/Customer_Dashboard.png)
+![Customer Dashboard](Customer_Dashboard.png)
