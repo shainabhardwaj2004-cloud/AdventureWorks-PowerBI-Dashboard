@@ -86,4 +86,25 @@ Dimension Tables
 ## Business Insights
 
 - Accessories generated the highest number of orders.
-- Revenue exceeded ₹24.9M
+
+- The business generated over $24.9M in total revenue.
+
+- High-performing territories contributed a significant share of overall sales.
+
+- Return rates differed across product categories, highlighting areas for quality improvement.
+
+- A relatively small group of customers contributed a large portion of total revenue.
+
+## Dashboard Screenshots
+
+### Executive Dashboard
+![Executive Dashboard](Screenshots/Executive_Dashboard.png)
+
+### Map Analysis
+![Map Dashboard](Screenshots/Map_Dashboard.png)
+
+### Product Performance Dashboard
+![Product Dashboard](Screenshots/Product_Dashboard.png)
+
+### Customer Analysis Dashboard
+![Customer Dashboard](Screenshots/Customer_Dashboard.png)
